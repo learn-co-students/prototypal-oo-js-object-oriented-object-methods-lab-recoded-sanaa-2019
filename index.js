@@ -15,3 +15,6 @@ BoardMember.prototype.doCharity=function(){
 BoardMember.prototype.releasePressStatement=function(){
   return "You will see great things from Scuber."
 }
+BoardMember.prototype.releasePressStatement=function(){
+  return "You will see great things from Scuber."
+}
