@@ -1,0 +1,3 @@
+function polishedBoardMember(nameState,training){
+  
+}
