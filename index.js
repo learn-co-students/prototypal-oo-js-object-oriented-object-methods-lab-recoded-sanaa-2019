@@ -1,3 +1,3 @@
-function polishedBoardMember(nameState,training){
+function polishedBoardMember(name,homeState,training){
   
 }
