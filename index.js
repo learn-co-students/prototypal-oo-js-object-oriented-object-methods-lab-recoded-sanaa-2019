@@ -10,5 +10,5 @@ BoardMember.prototype.approve=function(){
   return "You can do that!"
 }
 BoardMember.prototype.approve=function(){
-  return "You can do that!"
+  return "I like to help people."
 }
