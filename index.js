@@ -3,3 +3,6 @@ function boardMember(name,homeState,training){
   this.homeState=homeState
   this.training=training
 }
+boardMember.veto(){
+  
+}
