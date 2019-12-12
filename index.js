@@ -1,8 +1,8 @@
-function boardMember(name,homeState,training){
+function BoardMember(name,homeState,training){
   this.name=name
   this.homeState=homeState
   this.training=training
 }
-boardMember.veto=function(){
+BoardMember.veto=function(){
   return "No, I must disagree"
 }
