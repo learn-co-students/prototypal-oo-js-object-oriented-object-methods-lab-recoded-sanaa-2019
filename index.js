@@ -13,5 +13,5 @@ BoardMember.prototype.doCharity=function(){
   return "I like to help people."
 }
 BoardMember.prototype.releasePressStatement=function(){
-  return "I like to help people."
+  return "You will see great things from Scuber."
 }
